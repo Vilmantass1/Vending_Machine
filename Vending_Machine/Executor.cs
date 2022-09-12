@@ -15,7 +15,6 @@ namespace Vending_Machine
         }
 
 
-       // public void Meniu
 
 
         public void VendingMachineLoader()
